@@ -23,9 +23,9 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
+    "@cli-rts/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^2.0.0",
-    "@cli-rts/local-client": "^0.1.0"
+    "http-proxy-middleware": "^2.0.0"
   }
 }
