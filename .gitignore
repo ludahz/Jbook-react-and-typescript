@@ -3,3 +3,4 @@ dist
 node_modules
 lerna-debug.log
 notebook.js
+.DS_store
